@@ -9,6 +9,10 @@ This is based on *firebase functions*. I scheduled a "every minute" function cal
 
 ## Limits
 
-There is limitations for this bot. Due to Twitter API rate limits, it performs a search per minute, and answers the last two tweets. \
+There is limitations for this bot. Due to Twitter API rate limits, it performs a search per minute, and answers the last two tweets.
 
 Feel free to experiment with this!
+
+## Demo
+
+The demo is the twitter account @BotdoTino2 here: https://twitter.com/BotdoTino2 
